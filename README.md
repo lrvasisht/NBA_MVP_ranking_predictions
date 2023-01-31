@@ -5,4 +5,4 @@ It consists of two parts. First, data scraping and second developing machine lea
 Further this project is ongoing, where I intend to train LTSM nueral network model and compare the results from previous ML models.
 
 Extended To do: 
-Host data in SQL server and automatically update using Aitflow, build dashboard to keep track
+Host data in SQL server and automatically update using Airflow, build dashboard to keep track
